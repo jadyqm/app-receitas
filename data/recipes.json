@@ -1,0 +1,1290 @@
+{
+    "data":  [
+                 {
+                     "id":  117,
+                     "name":  "Flank Steak Marinated",
+                     "description":  "Marinated flank steak is a flavorful and tender grilled beef dish, enhanced with a zesty marinade of lime, soy, and herbs.",
+                     "difficulty":  "easy",
+                     "meal_type":  "main",
+                     "cuisine":  "american",
+                     "dietary_tags":  [
+                                          "dairy_free",
+                                          "gluten_free",
+                                          "nut_free"
+                                      ],
+                     "servings":  4,
+                     "prep_time":  15,
+                     "cook_time":  15,
+                     "calories_per_serving":  280,
+                     "protein":  30,
+                     "instructions":  [
+                                          "In a bowl, combine olive oil, soy sauce, lime juice, minced garlic, honey, ground black pepper, and chopped cilantro to create the marinade.",
+                                          "Place the flank steak in a resealable plastic bag or shallow dish and pour the marinade over the steak, ensuring it is well coated.",
+                                          "Seal the bag or cover the dish and refrigerate for at least 2 hours, preferably overnight, to allow the flavors to penetrate the meat.",
+                                          "Preheat the grill or grill pan to medium-high heat.",
+                                          "Remove the steak from the marinade, letting any excess drip off, and discard the remaining marinade.",
+                                          "Grill the flank steak for about 4-6 minutes per side for medium-rare, adjusting time based on thickness and desired doneness.",
+                                          "Once cooked, transfer the steak to a cutting board and let it rest for 5-10 minutes before slicing.",
+                                          "Slice the steak thinly against the grain to maximize tenderness and serve immediately."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  3,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  3,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  38,
+                                             "name":  "Cilantro",
+                                             "category":  "herb",
+                                             "quantity":  3,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  39,
+                                             "name":  "Lime juice",
+                                             "category":  "condiment",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  95,
+                                             "name":  "Honey",
+                                             "category":  "sweetener",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  177,
+                                             "name":  "Soy sauce",
+                                             "category":  "condiment",
+                                             "quantity":  100,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  500,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Steak_frites_-_yummy.jpg/960px-Steak_frites_-_yummy.jpg"
+                 },
+                 {
+                     "id":  121,
+                     "name":  "London Broil",
+                     "description":  "London Broil is a classic North American dish featuring marinated and grilled flank steak, known for its rich flavor and tender slices when properly prepared.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "american",
+                     "dietary_tags":  [
+                                          "dairy_free",
+                                          "gluten_free",
+                                          "nut_free"
+                                      ],
+                     "servings":  4,
+                     "prep_time":  15,
+                     "cook_time":  15,
+                     "calories_per_serving":  350,
+                     "protein":  35,
+                     "instructions":  [
+                                          "Marinate the beef flank steak with soy sauce, olive oil, Worcestershire sauce, minced garlic, lemon juice, brown sugar, black pepper, and dried oregano in a resealable bag or container for at least 4 hours or overnight in the refrigerator.",
+                                          "Preheat the grill or broiler to high heat.",
+                                          "Remove the steak from the marinade and pat it dry with paper towels.",
+                                          "Grill or broil the steak for about 4 to 6 minutes per side for medium-rare, depending on thickness.",
+                                          "Once cooked to desired doneness, remove the steak from heat and let it rest for 10 minutes.",
+                                          "Slice the steak thinly against the grain to ensure tenderness.",
+                                          "Serve slices with your preferred side dishes or garnish with fresh parsley if desired."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  3,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  75,
+                                             "name":  "Brown sugar",
+                                             "category":  "sweetener",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  96,
+                                             "name":  "Parsley",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  101,
+                                             "name":  "Dried oregano",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  124,
+                                             "name":  "Worcestershire sauce",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  126,
+                                             "name":  "Lemon juice",
+                                             "category":  "fruit",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  177,
+                                             "name":  "Soy sauce",
+                                             "category":  "condiment",
+                                             "quantity":  0.13,
+                                             "unit":  "cup",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  1,
+                                             "unit":  "kg",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/London_broil.jpg/960px-London_broil.jpg"
+                 },
+                 {
+                     "id":  1054,
+                     "name":  "Pepper Steak (American)",
+                     "description":  "Pepper steak is a classic American stir-fry dish featuring tender strips of flank steak cooked with colorful bell peppers and onions in a savory soy-based sauce. It\u0027s quick, delicious, and perfect served over rice.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "american",
+                     "dietary_tags":  [
+                                          "dairy_free",
+                                          "nut_free"
+                                      ],
+                     "servings":  3,
+                     "prep_time":  15,
+                     "cook_time":  10,
+                     "calories_per_serving":  350,
+                     "protein":  30,
+                     "instructions":  [
+                                          "Slice flank steak into thin strips against the grain.",
+                                          "In a bowl, combine soy sauce, oyster sauce, water, cornstarch, and sugar to make the sauce mixture.",
+                                          "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+                                          "Add sliced steak to the skillet and stir-fry until browned and nearly cooked through, then remove from skillet and set aside.",
+                                          "In the same skillet, add a little more oil if needed, then stir-fry sliced green and red bell peppers and sliced onion until slightly tender but still crisp.",
+                                          "Add minced garlic and ginger, stir-fry for about 30 seconds until fragrant.",
+                                          "Return the steak to the skillet with the vegetables.",
+                                          "Pour the prepared sauce mixture into the skillet and stir well to combine all ingredients.",
+                                          "Cook and stir until the sauce thickens and coats the steak and vegetables evenly.",
+                                          "Adjust seasoning with salt and pepper as needed.",
+                                          "Serve hot, traditionally with steamed white rice."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "pinch",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "pinch",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  11,
+                                             "name":  "Onion",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  27,
+                                             "name":  "Cornstarch",
+                                             "category":  "grain",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  30,
+                                             "name":  "Vegetable oil",
+                                             "category":  "oil",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  2,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  80,
+                                             "name":  "Water",
+                                             "category":  "other",
+                                             "quantity":  100,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  128,
+                                             "name":  "Sugar",
+                                             "category":  "sweetener",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  177,
+                                             "name":  "Soy sauce",
+                                             "category":  "condiment",
+                                             "quantity":  3,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  400,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  210,
+                                             "name":  "Green bell pepper",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  211,
+                                             "name":  "Red bell pepper",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  299,
+                                             "name":  "Oyster sauce",
+                                             "category":  "condiment",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  302,
+                                             "name":  "Ginger",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pepper_steak.jpg"
+                 },
+                 {
+                     "id":  1270,
+                     "name":  "Flank Steak with Shallots",
+                     "description":  "A flavorful dish featuring grilled flank steak served with a rich shallot and red wine sauce, perfect for a satisfying main course.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "french",
+                     "dietary_tags":  [
+                                          "gluten_free",
+                                          "nut_free"
+                                      ],
+                     "servings":  3,
+                     "prep_time":  15,
+                     "cook_time":  20,
+                     "calories_per_serving":  350,
+                     "protein":  35,
+                     "instructions":  [
+                                          "Take the flank steak out of the refrigerator and let it rest at room temperature for about 20 minutes.",
+                                          "Preheat a large skillet or grill pan over medium-high heat.",
+                                          "Pat the flank steak dry with paper towels and season both sides generously with salt and pepper.",
+                                          "Add olive oil to the hot skillet, then place the flank steak in the pan.",
+                                          "Cook the steak for about 4-5 minutes on each side for medium-rare, or adjust the time to your preferred doneness.",
+                                          "Remove the steak from the skillet and set it aside to rest, loosely covered with foil.",
+                                          "In the same skillet, reduce the heat to medium and add butter.",
+                                          "Add the thinly sliced shallots and sauté until they are soft and caramelized, about 5 minutes.",
+                                          "Add minced garlic and cook for about 30 seconds until fragrant.",
+                                          "Pour in red wine and scrape up any browned bits from the bottom of the pan.",
+                                          "Let the sauce simmer and reduce by half, then stir in a bit of beef broth and continue to simmer until slightly thickened.",
+                                          "Return the steak to the skillet to warm for a minute, spooning some shallot sauce over it.",
+                                          "Slice the flank steak thinly against the grain, arrange on a serving platter, and spoon the shallot sauce with shallots on top.",
+                                          "Garnish with fresh parsley and serve immediately."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "pinch",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "pinch",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  25,
+                                             "name":  "Butter",
+                                             "category":  "dairy",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  2,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  96,
+                                             "name":  "Parsley",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  115,
+                                             "name":  "Beef broth",
+                                             "category":  "other",
+                                             "quantity":  100,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  600,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  213,
+                                             "name":  "Shallot",
+                                             "category":  "vegetable",
+                                             "quantity":  3,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  223,
+                                             "name":  "Red wine",
+                                             "category":  "beverage",
+                                             "quantity":  100,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Steak_au_poivre_2025.jpg/960px-Steak_au_poivre_2025.jpg"
+                 },
+                 {
+                     "id":  4597,
+                     "name":  "Carne Asada Burrito",
+                     "description":  "Carne Asada Burrito is a flavorful Mexican dish featuring marinated grilled steak wrapped in a flour tortilla with rice, beans, and fresh toppings.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "mexican",
+                     "dietary_tags":  [
+                                          "gluten_free",
+                                          "halal",
+                                          "kosher"
+                                      ],
+                     "servings":  1,
+                     "prep_time":  15,
+                     "cook_time":  15,
+                     "calories_per_serving":  650,
+                     "protein":  40,
+                     "instructions":  [
+                                          "Marinate the steak by combining lime juice, olive oil, garlic, cumin, chili powder, salt, and pepper in a bowl, then coat the steak and let it marinate for at least 30 minutes.",
+                                          "Preheat a grill or grill pan over high heat and cook the steak for 4-5 minutes per side until desired doneness is reached.",
+                                          "Remove the steak from the grill and let it rest for 5 minutes before slicing thinly against the grain.",
+                                          "Warm the flour tortilla on the grill or in a skillet until pliable.",
+                                          "Place the sliced carne asada in the center of the tortilla.",
+                                          "Add toppings such as cooked rice, black beans, chopped cilantro, diced onion, sliced avocado, and sour cream if desired.",
+                                          "Fold the sides of the tortilla and roll it up tightly to form a burrito.",
+                                          "Serve the burrito with salsa or hot sauce on the side."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  11,
+                                             "name":  "Onion",
+                                             "category":  "vegetable",
+                                             "quantity":  0.25,
+                                             "unit":  "piece",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  34,
+                                             "name":  "Avocado",
+                                             "category":  "fruit",
+                                             "quantity":  0.5,
+                                             "unit":  "piece",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  2,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  38,
+                                             "name":  "Cilantro",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "bunch",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  58,
+                                             "name":  "Chili powder",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  59,
+                                             "name":  "Cumin",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  72,
+                                             "name":  "Black bean",
+                                             "category":  "legume",
+                                             "quantity":  0.5,
+                                             "unit":  "cup",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  121,
+                                             "name":  "Lime",
+                                             "category":  "fruit",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  141,
+                                             "name":  "Sour cream",
+                                             "category":  "dairy",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  250,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  235,
+                                             "name":  "Flour tortilla",
+                                             "category":  "grain",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  240,
+                                             "name":  "Salsa",
+                                             "category":  "condiment",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  520,
+                                             "name":  "Cooked rice",
+                                             "category":  "grain",
+                                             "quantity":  0.5,
+                                             "unit":  "cup",
+                                             "optional":  true
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Burrito.JPG/960px-Burrito.JPG"
+                 },
+                 {
+                     "id":  4607,
+                     "name":  "Carne Asada (Grilled Beef)",
+                     "description":  "Carne Asada is a traditional Mexican dish featuring marinated and grilled flank steak, known for its smoky, citrusy, and spiced flavor profile, perfect for tacos or as a main entree.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "mexican",
+                     "dietary_tags":  [
+                                          "gluten_free",
+                                          "dairy_free",
+                                          "nut_free",
+                                          "halal"
+                                      ],
+                     "servings":  6,
+                     "prep_time":  15,
+                     "cook_time":  12,
+                     "calories_per_serving":  320,
+                     "protein":  35,
+                     "instructions":  [
+                                          "Combine lime juice, olive oil, garlic, cilantro, cumin, oregano, salt, black pepper, and chili powder in a bowl to prepare the marinade.",
+                                          "Place flank steak in a shallow dish or resealable plastic bag and pour the marinade over the meat, making sure it is well coated.",
+                                          "Cover the dish or seal the bag and refrigerate for at least 1 hour, preferably 4 hours or overnight, for the flavors to infuse.",
+                                          "Preheat the grill to high heat and oil the grates to prevent sticking.",
+                                          "Remove the steak from the marinade and shake off excess liquid.",
+                                          "Grill the steak for about 4 to 6 minutes per side for medium-rare, or cook longer to desired doneness.",
+                                          "Transfer the steak to a cutting board and let it rest for 5 minutes before slicing.",
+                                          "Slice the steak thinly against the grain and serve with warm tortillas, salsa, and optional toppings."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  3,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  4,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  38,
+                                             "name":  "Cilantro",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "bunch",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  39,
+                                             "name":  "Lime juice",
+                                             "category":  "condiment",
+                                             "quantity":  120,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  58,
+                                             "name":  "Chili powder",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  59,
+                                             "name":  "Cumin",
+                                             "category":  "spice",
+                                             "quantity":  2,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  144,
+                                             "name":  "Oregano",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  1,
+                                             "unit":  "kg",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Carne_asada_%284472586086%29.jpg/960px-Carne_asada_%284472586086%29.jpg"
+                 },
+                 {
+                     "id":  5181,
+                     "name":  "Sonora Carne Asada (Sonoran Grilled Steak)",
+                     "description":  "Sonora Carne Asada is a traditional Mexican grilled flank steak marinated with citrus juices and spices, known for its vibrant flavors and tender texture typical of the Sonora region.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "mexican",
+                     "dietary_tags":  [
+                                          "gluten_free",
+                                          "dairy_free",
+                                          "nut_free",
+                                          "halal",
+                                          "kosher"
+                                      ],
+                     "servings":  4,
+                     "prep_time":  15,
+                     "cook_time":  15,
+                     "calories_per_serving":  320,
+                     "protein":  35,
+                     "instructions":  [
+                                          "Place the flank steak in a large shallow dish or resealable plastic bag.",
+                                          "In a bowl, combine lime juice, orange juice, olive oil, garlic, cumin, salt, black pepper, chili powder, and chopped cilantro to make the marinade.",
+                                          "Pour the marinade over the steak, ensuring it is well coated. Cover and refrigerate for at least 2 hours or overnight for best flavor.",
+                                          "Preheat a grill or grill pan over high heat.",
+                                          "Remove the steak from the marinade and discard the marinade.",
+                                          "Grill the steak for about 4-6 minutes per side for medium-rare, or until desired doneness is reached.",
+                                          "Remove the steak from the grill and let it rest for 5-10 minutes before slicing.",
+                                          "Slice the steak thinly against the grain and serve.",
+                                          "Optionally, serve with warm tortillas, grilled onions, fresh salsa, and lime wedges."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  60,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  3,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  38,
+                                             "name":  "Cilantro",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "bunch",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  39,
+                                             "name":  "Lime juice",
+                                             "category":  "condiment",
+                                             "quantity":  120,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  58,
+                                             "name":  "Chili powder",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  59,
+                                             "name":  "Cumin",
+                                             "category":  "spice",
+                                             "quantity":  2,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  1,
+                                             "unit":  "kg",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  317,
+                                             "name":  "Orange juice",
+                                             "category":  "fruit",
+                                             "quantity":  120,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/960px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg"
+                 },
+                 {
+                     "id":  5281,
+                     "name":  "Northern Mexico Carne Asada Party",
+                     "description":  "This Northern Mexico Carne Asada Party recipe features marinated grilled flank steak served in warm corn tortillas with fresh toppings, capturing the traditional flavors of Northern Mexican celebrations.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "mexican",
+                     "dietary_tags":  [
+                                          "gluten_free",
+                                          "nut_free",
+                                          "halal"
+                                      ],
+                     "servings":  8,
+                     "prep_time":  20,
+                     "cook_time":  15,
+                     "calories_per_serving":  380,
+                     "protein":  35,
+                     "instructions":  [
+                                          "In a large bowl, combine lime juice, orange juice, olive oil, minced garlic, chopped jalapeno, chopped cilantro, ground cumin, chili powder, smoked paprika, salt, and black pepper to make the marinade.",
+                                          "Add flank steak to the marinade and coat evenly. Cover and refrigerate for at least 2 hours, preferably overnight, to allow flavors to develop.",
+                                          "Preheat grill to high heat. Remove steak from marinade and pat dry with paper towels.",
+                                          "Grill steak for 4-6 minutes per side or until desired doneness is reached.",
+                                          "Remove steak from grill and let it rest for 5 minutes before slicing thinly against the grain.",
+                                          "Warm corn tortillas on the grill or skillet until pliable.",
+                                          "Serve the sliced carne asada on warm tortillas with diced onion, chopped cilantro, fresh lime wedges, and optional toppings like guacamole, salsa, and radish slices for a festive party.",
+                                          "Accompany with side dishes such as grilled peppers and onions, Mexican rice, and refried beans to complete the Northern Mexico carne asada party experience."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  60,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  11,
+                                             "name":  "Onion",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  4,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  38,
+                                             "name":  "Cilantro",
+                                             "category":  "herb",
+                                             "quantity":  20,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  39,
+                                             "name":  "Lime juice",
+                                             "category":  "condiment",
+                                             "quantity":  120,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  51,
+                                             "name":  "Smoked paprika",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  58,
+                                             "name":  "Chili powder",
+                                             "category":  "spice",
+                                             "quantity":  2,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  59,
+                                             "name":  "Cumin",
+                                             "category":  "spice",
+                                             "quantity":  2,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  60,
+                                             "name":  "Jalapeno",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  120,
+                                             "name":  "Corn tortilla",
+                                             "category":  "grain",
+                                             "quantity":  20,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  121,
+                                             "name":  "Lime",
+                                             "category":  "fruit",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  1.5,
+                                             "unit":  "kg",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  240,
+                                             "name":  "Salsa",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "cup",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  294,
+                                             "name":  "Guacamole",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "cup",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  317,
+                                             "name":  "Orange juice",
+                                             "category":  "fruit",
+                                             "quantity":  60,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  378,
+                                             "name":  "Radish",
+                                             "category":  "vegetable",
+                                             "quantity":  4,
+                                             "unit":  "piece",
+                                             "optional":  true
+                                         }
+                                     ],
+                     "image":  "https://upload.wikimedia.org/wikipedia/commons/6/65/Asado_2005.jpg"
+                 },
+                 {
+                     "id":  6185,
+                     "name":  "Asador (Grill Restaurant Feast)",
+                     "description":  "Asador is a traditional grill feast typically served at Argentinian or Uruguayan restaurants featuring various grilled meats and vegetables served with chimichurri sauce and fresh bread.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "spanish",
+                     "dietary_tags":  [
+                                          "gluten_free"
+                                      ],
+                     "servings":  4,
+                     "prep_time":  20,
+                     "cook_time":  20,
+                     "calories_per_serving":  650,
+                     "protein":  55,
+                     "instructions":  [
+                                          "Preheat the grill to medium-high heat to ensure it is hot and ready for cooking.",
+                                          "Season the meat cuts (such as short ribs, flank steak, and chorizo) generously with salt and pepper on both sides.",
+                                          "Place the meat pieces on the grill and cook, turning occasionally, until they reach the desired doneness, typically 4-6 minutes per side for medium rare beef.",
+                                          "Grill the vegetables (such as bell pepper, onion, and tomato) alongside the meat, brushing them lightly with olive oil to prevent sticking and enhance flavor.",
+                                          "Remove the meat and vegetables from the grill and let the meat rest for a few minutes to retain juices.",
+                                          "Slice the grilled meat against the grain into thin strips for tender bites.",
+                                          "Arrange the grilled meat and vegetables on a large serving platter, offering chimichurri sauce on the side for dipping.",
+                                          "Serve the feast with crusty bread and a simple salad to complement the rich flavors of the grilled items."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  5,
+                                             "name":  "Olive oil",
+                                             "category":  "oil",
+                                             "quantity":  3,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  6,
+                                             "name":  "Salt",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  7,
+                                             "name":  "Black pepper",
+                                             "category":  "condiment",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  10,
+                                             "name":  "Tomato",
+                                             "category":  "fruit",
+                                             "quantity":  2,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  11,
+                                             "name":  "Onion",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  3,
+                                             "unit":  "clove",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  96,
+                                             "name":  "Parsley",
+                                             "category":  "herb",
+                                             "quantity":  1,
+                                             "unit":  "bunch",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  113,
+                                             "name":  "Bell pepper",
+                                             "category":  "vegetable",
+                                             "quantity":  1,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  204,
+                                             "name":  "Flank steak",
+                                             "category":  "meat",
+                                             "quantity":  500,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  233,
+                                             "name":  "Short rib",
+                                             "category":  "meat",
+                                             "quantity":  500,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  286,
+                                             "name":  "Chili flake",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  305,
+                                             "name":  "Red wine vinegar",
+                                             "category":  "condiment",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  306,
+                                             "name":  "Bread",
+                                             "category":  "grain",
+                                             "quantity":  4,
+                                             "unit":  "slice",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  2255,
+                                             "name":  "Chorizo",
+                                             "category":  "meat",
+                                             "quantity":  3,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Churrasco00003.jpg/960px-Churrasco00003.jpg"
+                 },
+                 {
+                     "id":  10520,
+                     "name":  "Mongolian Beef",
+                     "description":  "Mongolian Beef is a popular Chinese-American dish featuring tender strips of beef stir-fried with a savory and sweet soy-based sauce and green onions. It\u0027s known for its rich flavor and quick cooking time.",
+                     "difficulty":  "medium",
+                     "meal_type":  "main",
+                     "cuisine":  "chinese",
+                     "dietary_tags":  [
+                                          "dairy_free",
+                                          "nut_free",
+                                          "halal",
+                                          "kosher"
+                                      ],
+                     "servings":  4,
+                     "prep_time":  15,
+                     "cook_time":  15,
+                     "calories_per_serving":  350,
+                     "protein":  30,
+                     "instructions":  [
+                                          "Slice the beef thinly against the grain and set aside.",
+                                          "In a bowl, mix soy sauce, brown sugar, and water until the sugar dissolves to create the sauce.",
+                                          "Heat vegetable oil in a wok or large skillet over high heat.",
+                                          "Add the sliced beef and stir-fry until browned and cooked through, then remove from the pan and set aside.",
+                                          "In the same pan, add additional oil if needed and sauté minced garlic and grated ginger until fragrant.",
+                                          "Pour in the prepared sauce and bring it to a simmer until it thickens slightly.",
+                                          "Return the cooked beef to the pan and toss to coat evenly with the sauce.",
+                                          "Add sliced green onions and cook for another minute to combine flavors.",
+                                          "Serve hot over steamed rice."
+                                      ],
+                     "ingredients":  [
+                                         {
+                                             "id":  27,
+                                             "name":  "Cornstarch",
+                                             "category":  "grain",
+                                             "quantity":  2,
+                                             "unit":  "tbsp",
+                                             "optional":  true
+                                         },
+                                         {
+                                             "id":  30,
+                                             "name":  "Vegetable oil",
+                                             "category":  "oil",
+                                             "quantity":  3,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  37,
+                                             "name":  "Garlic",
+                                             "category":  "vegetable",
+                                             "quantity":  3,
+                                             "unit":  "clove",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  75,
+                                             "name":  "Brown sugar",
+                                             "category":  "sweetener",
+                                             "quantity":  100,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  80,
+                                             "name":  "Water",
+                                             "category":  "other",
+                                             "quantity":  120,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  111,
+                                             "name":  "Scallion",
+                                             "category":  "herb",
+                                             "quantity":  4,
+                                             "unit":  "piece",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  177,
+                                             "name":  "Soy sauce",
+                                             "category":  "condiment",
+                                             "quantity":  120,
+                                             "unit":  "ml",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  302,
+                                             "name":  "Ginger",
+                                             "category":  "spice",
+                                             "quantity":  1,
+                                             "unit":  "tbsp",
+                                             "optional":  false
+                                         },
+                                         {
+                                             "id":  3890,
+                                             "name":  "Beef flank steak",
+                                             "category":  "meat",
+                                             "quantity":  500,
+                                             "unit":  "g",
+                                             "optional":  false
+                                         }
+                                     ],
+                     "image":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mongolian_Beef_with_rice_and_noodles.jpg/960px-Mongolian_Beef_with_rice_and_noodles.jpg"
+                 }
+             ],
+    "links":  {
+                  "first":  "https://recipeapi.io/api/v1/recipes?ingredients=flank%20steak\u0026page=1",
+                  "last":  "https://recipeapi.io/api/v1/recipes?ingredients=flank%20steak\u0026page=1",
+                  "prev":  null,
+                  "next":  null
+              },
+    "meta":  {
+                 "current_page":  1,
+                 "last_page":  1,
+                 "path":  "https://recipeapi.io/api/v1/recipes",
+                 "per_page":  10,
+                 "total":  10,
+                 "language":  "en"
+             }
+}
