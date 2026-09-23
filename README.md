@@ -20,10 +20,12 @@ data/recipes.json             resposta da Recipe API + a foto de cada receita
 scripts/fetch-recipes.ps1     script que gera o recipes.json
 src/theme.js                  cores, espaçamentos, raios e sombras
 src/utils/format.js           formatação de tempo e de quantidade
+src/utils/traducoes.js        rótulos em português (unidade, dificuldade, cozinha)
 src/components/Header.js      cabeçalho das duas telas (com ou sem botão voltar)
 src/components/RecipeCard.js  item da lista da tela inicial
 src/components/InfoBadge.js   cartão de ícone + valor (serve, tempo, calorias)
 src/components/IngredientItem.js  linha da lista de ingredientes
+src/components/Chip.js        etiqueta de dificuldade e de tipo de cozinha
 src/screens/HomeScreen.js     tela inicial: cabeçalho + FlatList de receitas
 src/screens/RecipeScreen.js   tela de receita: detalhes + FlatList de ingredientes
 ```
@@ -35,8 +37,9 @@ cartão traz a foto, o nome, o tempo total e as calorias, e leva para a tela de
 detalhes ao ser tocado.
 
 **Tela de receita** — cabeçalho com botão voltar, foto, nome, descrição, três
-indicadores com ícones (porções, tempo de preparo, calorias), o modo de preparo
-numerado e a `FlatList` de ingredientes com nome e quantidade + unidade.
+indicadores com ícones (porções, tempo de preparo, calorias), as etiquetas de
+dificuldade e de tipo de cozinha, o modo de preparo numerado e a `FlatList` de
+ingredientes com nome e quantidade + unidade.
 
 ## Dados
 
