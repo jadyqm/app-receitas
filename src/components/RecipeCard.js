@@ -3,6 +3,7 @@ import { Image, Pressable, StyleSheet, Text, View } from 'react-native';
 
 import { colors, radius, shadows, spacing } from '../theme';
 import { formatTime } from '../utils/format';
+import { traduzirDificuldade } from '../utils/traducoes';
 
 // Item da FlatList da tela inicial: foto + nome + resumo. Clicável.
 export default function RecipeCard({ recipe, onPress }) {
@@ -19,7 +20,7 @@ export default function RecipeCard({ recipe, onPress }) {
 
       {recipe.difficulty ? (
         <View style={styles.tag}>
-          <Text style={styles.tagText}>{recipe.difficulty}</Text>
+          <Text style={styles.tagText}>{traduzirDificuldade(recipe.difficulty)}</Text>
         </View>
       ) : null}
 
@@ -61,7 +62,7 @@ const styles = StyleSheet.create({
   },
   image: {
     width: '100%',
-    height: 180,
+    height: 190,
     backgroundColor: colors.border,
   },
   tag: {
@@ -69,7 +70,7 @@ const styles = StyleSheet.create({
     top: spacing.md,
     left: spacing.md,
     backgroundColor: colors.surface,
-    paddingVertical: spacing.xs,
+    paddingVertical: 5,
     paddingHorizontal: spacing.md,
     borderRadius: radius.pill,
   },
@@ -77,17 +78,20 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontWeight: '600',
     color: colors.primary,
-    textTransform: 'capitalize',
+    letterSpacing: 0.2,
   },
   body: {
-    padding: spacing.lg,
+    paddingHorizontal: spacing.lg,
+    paddingTop: spacing.lg,
+    paddingBottom: spacing.lg,
     gap: spacing.sm,
   },
   name: {
     fontSize: 18,
-    fontWeight: '600',
+    fontWeight: '700',
+    lineHeight: 24,
     color: colors.text,
-    letterSpacing: -0.2,
+    letterSpacing: -0.3,
   },
   metaRow: {
     flexDirection: 'row',

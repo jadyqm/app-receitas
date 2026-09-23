@@ -1,11 +1,13 @@
 import { Clock, Fire, ForkKnife, ListNumbers, Users } from 'phosphor-react-native';
 import { FlatList, Image, StyleSheet, Text, View } from 'react-native';
 
+import Chip from '../components/Chip';
 import Header from '../components/Header';
 import InfoBadge from '../components/InfoBadge';
 import IngredientItem from '../components/IngredientItem';
 import { colors, radius, spacing } from '../theme';
 import { formatTime } from '../utils/format';
+import { traduzirCozinha, traduzirDificuldade } from '../utils/traducoes';
 
 // Título de seção com ícone, usado em "Modo de preparo" e "Ingredientes".
 function SectionTitle({ icon: Icon, children }) {
@@ -32,6 +34,13 @@ export default function RecipeScreen({ navigation, route }) {
       <Image source={{ uri: recipe.image }} style={styles.hero} resizeMode="cover" />
 
       <View style={styles.section}>
+        <View style={styles.chipRow}>
+          {recipe.difficulty ? <Chip label={traduzirDificuldade(recipe.difficulty)} /> : null}
+          {recipe.cuisine ? (
+            <Chip label={traduzirCozinha(recipe.cuisine)} tone="neutral" />
+          ) : null}
+        </View>
+
         <Text style={styles.name}>{recipe.name}</Text>
         <Text style={styles.description}>{recipe.description}</Text>
       </View>
@@ -95,7 +104,7 @@ const styles = StyleSheet.create({
   },
   hero: {
     width: '100%',
-    height: 240,
+    height: 260,
     backgroundColor: colors.border,
   },
   section: {
@@ -103,15 +112,21 @@ const styles = StyleSheet.create({
     paddingTop: spacing.xl,
     gap: spacing.sm,
   },
+  chipRow: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+    marginBottom: spacing.xs,
+  },
   name: {
-    fontSize: 24,
+    fontSize: 26,
     fontWeight: '700',
+    lineHeight: 32,
     color: colors.text,
-    letterSpacing: -0.4,
+    letterSpacing: -0.5,
   },
   description: {
     fontSize: 15,
-    lineHeight: 22,
+    lineHeight: 23,
     color: colors.textMuted,
   },
   badgeRow: {
@@ -136,9 +151,10 @@ const styles = StyleSheet.create({
     marginBottom: spacing.sm,
   },
   sectionTitle: {
-    fontSize: 17,
+    fontSize: 18,
     fontWeight: '700',
     color: colors.text,
+    letterSpacing: -0.2,
   },
   steps: {
     gap: spacing.lg,
@@ -148,8 +164,8 @@ const styles = StyleSheet.create({
     gap: spacing.md,
   },
   stepNumber: {
-    width: 26,
-    height: 26,
+    width: 28,
+    height: 28,
     borderRadius: radius.pill,
     backgroundColor: colors.primarySoft,
     alignItems: 'center',
@@ -163,9 +179,9 @@ const styles = StyleSheet.create({
   stepText: {
     flex: 1,
     fontSize: 15,
-    lineHeight: 22,
+    lineHeight: 23,
     color: colors.text,
-    paddingTop: 2,
+    paddingTop: 3,
   },
   separator: {
     height: StyleSheet.hairlineWidth,
